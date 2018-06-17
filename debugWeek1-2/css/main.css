@@ -1,0 +1,7 @@
+h1 {
+	background-color: tomato;
+	color: #FFFFFF;
+}
+h1::first-letter {
+	font-size: 52px;
+}
